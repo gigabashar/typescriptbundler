@@ -1,2 +1,1 @@
-console.log('Hi');
-export {};
+const list = document.querySelector('#list');
